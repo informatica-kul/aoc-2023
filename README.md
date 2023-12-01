@@ -15,3 +15,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | mer0ps               | Rust                        | [link](https://github.com/BramHamaekers/aoc-2023)      |
 | .vigintillion        | Rust, TypeScript            | [link](https://github.com/Vigintillionn/aoc_2023)      |
 | seppelesschaeve      | OCaml                       | [link](https://github.com/SeppeLesschaeve/AOCaml-2023) |
+| wtas                 | Racket, Kotlin              | [link](https://github.com/wannestas/AoC-2023)          |
