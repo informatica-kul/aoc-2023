@@ -21,3 +21,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | seppelesschaeve      | OCaml                       | [link](https://github.com/SeppeLesschaeve/AOCaml-2023) |
 | wtas                 | Racket, Kotlin              | [link](https://github.com/wannestas/AoC-2023)          |
 | eprovst              | Raku                        | [link](https://github.com/eprovst/aoc)                 |
+| exur00               | Bash                        | [link](https://github.com/exur00/aoc2023)              |
