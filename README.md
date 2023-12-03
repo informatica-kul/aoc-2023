@@ -13,6 +13,7 @@ A list of links to repositories with solutions, made by students at the KUL.
 | lencr                | Python                      | [link](https://github.com/LenC08/aoc-2023)             |
 | nicezombies3         | Python                      | [link](https://github.com/nineteendo/aoc-2023)         |
 | mmaarten             | Python                      | [link](https://github.com/Mmaarten23/aoc)              |
+| gobblemeswallowme    | Python                      | [link](https://github.com/iEndrath/AOC)                |
 | maaren               | Rust                        | [link](https://github.com/mhkdepauw/aoc_2023)          |
 | yendric              | Rust                        | [link](https://github.com/Yendric/aoc_2023)            |
 | mer0ps               | Rust                        | [link](https://github.com/BramHamaekers/aoc-2023)      |
